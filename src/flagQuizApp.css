@@ -1,0 +1,182 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Montserrat", sans-serif;
+  }
+  body {
+    padding: 0 16px;
+  }
+  
+  header {
+    background-color: #bbdd5d;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  header h1 {
+    color: white;
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+  }
+  
+  footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin: auto -16px;
+    height: 3.7rem;
+    background-color: #bbdd5d;
+  }
+  
+  footer p {
+    color: white;
+    margin-left: 16px;
+    line-height: 3.7rem;
+    font-size: 1.2rem;
+  }
+  
+  form.questionArea {
+    position: relative;
+    width: 680px;
+    height: 500px;
+    margin: 30px auto 30px auto;
+    background: #125772;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+  }
+  
+  form.questionArea button {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background: #3d7630;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    width: 130px;
+    height: 50px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+    font-size: 1.5rem;
+  }
+
+  form.questionArea button:hover{
+    background-color: #bbdd5d;
+  }
+
+  .selected-answer{
+    background-color: #3d7630;
+    border: solid;
+    border-radius: 7px;
+    height: 40px;
+    width: 300px;
+    line-height: 35px;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .options-list{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    list-style-type: none;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    margin-left: 190px ;
+  }
+
+  .option{
+    border: solid black;
+    border-radius: 7px;
+    height: 40px;
+    width: 300px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: #6eebfd;
+
+  }
+
+  .option:hover{
+    background-color: #bbdd5d;
+    border: solid;
+    cursor: pointer;
+  }
+
+ .smallNum{
+    position: relative;
+    margin-left: 94%;
+    top: -27px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+  }
+
+  .largeNum{
+    position: relative;
+    margin-left: 92%;
+    top: -27px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+  }
+
+  form.questionArea h2{
+    width: 500px;
+    font-size: 1.5rem;
+    margin-right: 6%;
+    color: white;
+  }
+
+  form.FinishScreen{
+    position: relative;
+    width: 480px;
+    height: 300px;
+    margin: 130px auto 150px auto;
+    background: #125772;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+  }
+
+  form.FinishScreen button {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background: #3d7630;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    width: 130px;
+    height: 50px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+    font-size: 1.5rem;
+  }
+
+  form.FinishScreen button:hover{
+    background-color: #bbdd5d;
+  }
+
+  .FinalResult{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    list-style-type: none;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 15px;
+  }
