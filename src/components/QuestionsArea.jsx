@@ -98,7 +98,7 @@ document.body.style.backgroundImage = color;
             width:"180px",
             height: "180px",
         }}
-        aria-label={correct}/>
+        aria-label=''/>
         
         <ul className="options-list">
          { choices.map((answer, index) =>(
