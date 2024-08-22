@@ -841,6 +841,366 @@ export const flags = {
           correct: "Guinea-Bissau"
       },
 
+      {
+        key: 71,
+        image: "GY",
+        color: "linear-gradient(red,yellow,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Mali",
+           "Guinea",
+           "Guyana",
+           "Malawi"],
+          correct: "Guyana"
+      },
+
+      {
+        key: 72,
+        image: "HT",
+        color: "linear-gradient(blue,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Haiti",
+           "Dominican Republic",
+           "Panama",
+           "San Marino"],
+          correct: "Haiti"
+      },
+
+      {
+        key: 73,
+        image: "HN",
+        color: "linear-gradient(blue,white,blue)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Haiti",
+           "El Salvador",
+           "Nicaragua",
+           "Honduras"],
+          correct: "Honduras"
+      },
+
+      {
+        key: 74,
+        image: "HU",
+        color: "linear-gradient(red,white,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Bulgaria",
+           "Tajikistan",
+           "Hungary",
+           "Italy"],
+          correct: "Hungary"
+      },
+
+      {
+        key: 75,
+        image: "IS",
+        color: "linear-gradient(blue,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Sweden",
+           "Norway",
+           "Denmark",
+           "Iceland"],
+          correct: "Iceland"
+      },
+
+      {
+        key: 76,
+        image: "IN",
+        color: "linear-gradient(orange,white,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Nepal",
+           "Sri Lanka",
+           "Ireland",
+           "India"],
+          correct: "India"
+      },
+
+      {
+        key: 77,
+        image: "ID",
+        color: "linear-gradient(red,white)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Indonesia",
+           "Latvia",
+           "Poland",
+           "Cambodia"],
+          correct: "Indonesia"
+      },
+
+      {
+        key: 78,
+        image: "IR",
+        color: "linear-gradient(green,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Iran",
+           "India",
+           "Tajikistan",
+           "Pakistan"],
+          correct: "Iran"
+      },
+
+      {
+        key: 79,
+        image: "IQ",
+        color: "linear-gradient(red,white,black)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Yemen",
+           "Iraq",
+           "Syria",
+           "Kuwait"],
+          correct: "Iraq"
+      },
+
+      {
+        key: 80,
+        image: "IE",
+        color: "linear-gradient(green,white,orange)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Ireland",
+           "Romania",
+           "Mali",
+           "Niger"],
+          correct: "Ireland"
+      },
+
+      {
+        key: 81,
+        image: "IL",
+        color: "linear-gradient(white,blue,white)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Georgia",
+           "Israel",
+           "Greece",
+           "Armenia"],
+          correct: "Israel"
+      },
+
+      {
+        key: 82,
+        image: "IT",
+        color: "linear-gradient(green,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Hungary",
+           "Bulgaria",
+           "Italy",
+           "France"],
+          correct: "Italy"
+      },
+
+      {
+        key: 83,
+        image: "JM",
+        color: "linear-gradient(green,yellow,black)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Jamaica",
+           "South Africa",
+           "Mozambique",
+           "Guyana"],
+          correct: "Jamaica"
+      },
+
+      {
+        key: 84,
+        image: "JP",
+        color: "linear-gradient(white,red,white)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "South Korea",
+           "North Korea",
+           "Japan",
+           "Bangladesh"],
+          correct: "Japan"
+      },
+
+      {
+        key: 85,
+        image: "JO",
+        color: "linear-gradient(red,black,white,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Kuwait",
+           "Oman",
+           "Jordan",
+           "UAE"],
+          correct: "Jordan"
+      },
+
+      {
+        key: 86,
+        image: "KZ",
+        color: "linear-gradient(lightblue,yellow,lightblue)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Micronesia",
+           "Kazakhstan",
+           "Rwanda",
+           "Cabo Verde"],
+          correct: "Kazakhstan"
+      },
+
+      {
+        key: 87,
+        image: "KE",
+        color: "linear-gradient(black,red,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Comoros",
+           "Sri Lanka",
+           "South Sudan",
+           "Kenya"],
+          correct: "Kenya"
+      },
+
+      {
+        key: 88,
+        image: "KI",
+        color: "linear-gradient(red,white,blue)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Comoros",
+           "Sri Lanka",
+           "East Timor",
+           "Kiribati"],
+          correct: "Kiribati"
+      },
+
+      {
+        key: 89,
+        image: "KW",
+        color: "linear-gradient(black,green,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Jordan",
+           "UAE",
+           "Kuwait",
+           "Iran"],
+          correct: "Kuwait"
+      },
+
+      {
+        key: 90,
+        image: "KG",
+        color: "linear-gradient(red,yellow)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Uzbekistan",
+           "Georgia",
+           "North Macedonia",
+           "Kyrgyzstan"],
+          correct: "Kyrgyzstan"
+      },
+
+      {
+        key: 91,
+        image: "LA",
+        color: "linear-gradient(red,blue,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Laos",
+           "Palau",
+           "Cambodia",
+           "Micronesia"],
+          correct: "Laos"
+      },
+
+      {
+        key: 92,
+        image: "LV",
+        color: "linear-gradient(red,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Lithuania",
+           "Slovakia",
+           "Latvia",
+           "Slovenia"],
+          correct: "Latvia"
+      },
+
+      {
+        key: 93,
+        image: "LB",
+        color: "linear-gradient(red,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Wales",
+           "Canada",
+           "Peru",
+           "Lebanon"],
+          correct: "Lebanon"
+      },
+
+      {
+        key: 94,
+        image: "LS",
+        color: "linear-gradient(blue,white,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Sierra Leone",
+           "Lesotho",
+           "Suriname",
+           "Malawi"],
+          correct: "Lesotho"
+      },
+
+      {
+        key: 95,
+        image: "LR",
+        color: "linear-gradient(blue,white,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Liberia",
+           "USA",
+           "Costa Rica",
+           "Haiti"],
+          correct: "Liberia"
+      },
+
+      {
+        key: 96,
+        image: "LY",
+        color: "linear-gradient(red,black,green)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Tunisia",
+           "Pakistan",
+           "Libya",
+           "Azerbaijan"],
+          correct: "Libya"
+      },
+
+      {
+        key: 97,
+        image: "LI",
+        color: "linear-gradient(blue,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Andorra",
+           "Luxembourg",
+           "San Marino",
+           "Liechtenstein"],
+          correct: "Liechtenstein"
+      },
+
+      {
+        key: 98,
+        image: "LT",
+        color: "linear-gradient(yellow,green,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Romania",
+           "Lithuania",
+           "Moldova",
+           "Latvia"],
+          correct: "Lithuania"
+      },
+
+      {
+        key: 99,
+        image: "LU",
+        color: "linear-gradient(red,white,lighblue)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Netherlands",
+           "Serbia",
+           "Luxembourg",
+           "Slovenia"],
+          correct: "Luxembourg"
+      },
+
+      {
+        key: 100,
+        image: "MG",
+        color: "linear-gradient(white,green,red)",
+        question:  "Q. What country is this the flag of?",
+        choices:[ "Rwanda",
+           "Benin",
+           "Malawi",
+           "Madagascar"],
+          correct: "Madagascar"
+      },
+
 ]
 
 }
