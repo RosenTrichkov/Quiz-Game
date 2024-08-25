@@ -2151,7 +2151,7 @@ export const flags = {
 
       {
         key: 180,
-        image: "UG",
+        image: "UA",
         color: "linear-gradient(blue,yellow)",
         question:  "Q. What country is this the flag of?",
         choices:[ "Ukraine",
